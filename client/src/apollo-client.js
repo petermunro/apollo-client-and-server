@@ -3,13 +3,14 @@ import { getMainDefinition } from "@apollo/client/utilities";
 import { WebSocketLink } from "@apollo/client/link/ws";
 
 let link;
+const wsEnabled = false;
 
 const httpLink = new HttpLink({
   credentials: "same-origin", // Additional fetch() options like `credentials` or `headers`
   uri: "http://localhost:5000/graphql", // Server URL (must be absolute)
 });
 
-if (process.browser) {
+if (wsEnabled && process.browser) {
   const wsLink = new WebSocketLink({
     uri: "ws://localhost:5000/graphql",
     options: {

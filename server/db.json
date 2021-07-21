@@ -1,0 +1,165 @@
+{
+  "authors": [
+    {
+      "id": 1,
+      "firstName": "Jim",
+      "lastName": "Smith",
+      "phoneNumber": "454-454-2345"
+    },
+    {
+      "id": 2,
+      "firstName": "Abby",
+      "lastName": "Thompkins",
+      "phoneNumber": "123-454-2345"
+    },
+    {
+      "id": 3,
+      "firstName": "Tim",
+      "lastName": "Jones",
+      "phoneNumber": "678-454-2345"
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Smith",
+      "id": 4,
+      "phoneNumber": "190-454-2345"
+    },
+    {
+      "firstName": "Jody",
+      "lastName": "Smith",
+      "id": 5,
+      "phoneNumber": "256-454-2345"
+    },
+    {
+      "firstName": "Sean",
+      "lastName": "Thomas",
+      "phoneNumber": "123-123-1234",
+      "id": 6
+    },
+    {
+      "firstName": "Sally",
+      "lastName": "Thomas",
+      "phoneNumber": "123-123-1323",
+      "id": 7
+    },
+    {
+      "firstName": "Natalie",
+      "lastName": "Timmons",
+      "phoneNumber": "123-123-1234",
+      "id": 8
+    },
+    {
+      "firstName": "Sally",
+      "lastName": "Thomas",
+      "phoneNumber": "123-123-1234",
+      "id": 9
+    },
+    {
+      "firstName": "a",
+      "lastName": "a",
+      "phoneNumber": "a",
+      "id": 10
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Vance",
+      "phoneNumber": "123-123-1234",
+      "id": 11
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Vance",
+      "phoneNumber": "123-123-1234",
+      "id": 12
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Vance",
+      "phoneNumber": "123-123-1234",
+      "id": 13
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Vance",
+      "phoneNumber": "123-123-1234",
+      "id": 14
+    },
+    {
+      "firstName": "Jacob",
+      "lastName": "Elias",
+      "phoneNumber": "123-123-1234",
+      "id": 15
+    },
+    {
+      "firstName": "pete",
+      "lastName": "munro",
+      "phoneNumber": "0876891951",
+      "id": 16
+    }
+  ],
+  "books": [
+    {
+      "id": 1,
+      "isbn": "111222AAAA",
+      "title": "A Friend's Hope",
+      "authorId": 1,
+      "category": "Inspirational",
+      "price": 12.99,
+      "quantity": 4
+    },
+    {
+      "id": 3,
+      "isbn": "111222AAAC",
+      "title": "Forbidden Fellowship",
+      "authorId": 3,
+      "category": "Romance",
+      "price": 5,
+      "quantity": 10
+    },
+    {
+      "id": 4,
+      "isbn": "111222AAAD",
+      "title": "Quiet Ones",
+      "authorId": 2,
+      "category": "Mystery",
+      "price": 8.99,
+      "quantity": 6
+    },
+    {
+      "id": 5,
+      "isbn": "111222AAAE",
+      "title": "Debating Silence",
+      "authorId": 3,
+      "category": "Humor",
+      "price": 7.99,
+      "quantity": 6
+    },
+    {
+      "id": 6,
+      "isbn": "111222AAAF",
+      "title": "Midnight Killer",
+      "authorId": 3,
+      "category": "Mystery",
+      "price": 10.99,
+      "quantity": 45
+    },
+    {
+      "id": 7,
+      "title": "History of People",
+      "isbn": "111222AAAG",
+      "authorId": "2",
+      "category": "Historical",
+      "price": 15.99,
+      "quantity": 55
+    },
+    {
+      "isbn": "111222AAAB",
+      "title": "Silicon Valley Pioneers",
+      "authorId": "2",
+      "category": "History",
+      "price": 150,
+      "quantity": 34,
+      "id": 8
+    }
+  ]
+}
